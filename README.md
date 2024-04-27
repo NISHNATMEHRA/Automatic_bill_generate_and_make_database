@@ -28,14 +28,5 @@ To use the Invoice Generator, run the `main.py` file and follow the prompts to p
 - Enter the required details such as invoice ID, person's name, address, product ID, name, quantity, and price per unit.
 - Click on the corresponding button to generate invoices or insert data into the database.
 
-## Contributing
 
-Contributions to the Invoice Generator are welcome! If you'd like to contribute to the project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
 
